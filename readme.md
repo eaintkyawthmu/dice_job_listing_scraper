@@ -1,5 +1,4 @@
 
-```markdown
 # Dice Job Listings Scraper
 
 This is a web scraper that extracts job listings from Dice.com. It navigates through the job listings, clicks on each job to view more details, and extracts relevant information such as the job title, company, location, and recruiter information.
